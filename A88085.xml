@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations by way of sober queries, whether the state and condition of the three nations have been, or may be bettered, or made far worse, by the sitting, and acting of the remnant of the Old Parliament, without a free and full assembly, chosen by the consent and election of the people, which are most concerned therein. / By Tho. Le White Esq;</title>
+            <author>Le White, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88085</idno>
+            <idno type="STC">Wing L1834</idno>
+            <idno type="STC">Thomason 669.f.23[53]</idno>
+            <idno type="STC">ESTC R211592</idno>
+            <idno type="EEBO-CITATION">99870306</idno>
+            <idno type="PROQUEST">99870306</idno>
+            <idno type="VID">163709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163709)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations by way of sober queries, whether the state and condition of the three nations have been, or may be bettered, or made far worse, by the sitting, and acting of the remnant of the Old Parliament, without a free and full assembly, chosen by the consent and election of the people, which are most concerned therein. / By Tho. Le White Esq;</title>
+                  <author>Le White, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 20. 1659."; the 60 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163709:1" rendition="simple:additions"/>
+            <head>Conſiderations by way of Sober Queries, Whether the State and Condition of the three Nations have been, or may be bettered, or made far worſe, by the ſitting and acting of the Remnant of the Old <hi>Parliament,</hi> without a Free and Full Aſſembly, choſen by the Conſent and Election of the <hi>People,</hi> which are moſt concerned therein.</head>
+            <byline>
+               <hi>By THO. LE WHITE</hi> 
+               <abbr>Eſq</abbr>
+            </byline>
+            <p n="1">1. WHether Parliaments heretofore have not been the Darlings of the people, and whether at preſent they are not the Starvelings of the Nation?</p>
+            <p n="2">2. Whether the Parliament hath either bettered the Church and State, or made them worſe (under the umbrage of reformation) ſince their putting down of Kingſhip, Peers and Prelates?</p>
+            <p n="3">3. Whether of late they have not made all the Counties in <hi>England</hi> their enemies, in rejecting their Petitions and Addreſſes to them for a Free Parlia<g ref="char:EOLhyphen"/>ment, and whether it be not againſt Law, Reaſon and the ancient Cuſtome of <hi>England,</hi> to debarr the Counties and ancient Boroughs of their free choyce of Knights and Burgeſſes by limiting them with Qualifications?</p>
+            <p n="4">4. Whether this way of Qualifications be not of the ſame nature with that of <hi>Richard</hi> the ſecond, who made choyce of ſuch members for a <hi>Parliament</hi> as fuited to his own ends and pleaſure, and on the regret and diſlike of the people, guarded and defended his packt Parliament <hi>Viris armatis et ſagittarij,</hi> garded them with armed men and Archers?</p>
+            <p n="5">5. Whether the Lawes enacted by a confined Parliament, can either by Law or reaſon, oblige the people to obey them, when as they ſhall be debarr'd the freedom of their Elections, ſiince 'tis their Birth-right to chuſe their own Laws, by their Reſpreſentative?</p>
+            <p n="6">6. Whether this way of Qualification and debarring the Natives of thei juſt Rights, will not be a furtherance of the encreaſe of our diſtractions, and in the concluſion bring all to confuſion?</p>
+            <p n="7">7. Whether on theſe our diſtractions and diſagreements, it may not invite <hi>Charles Stewart</hi> (as they call him) to come in with a forreign Army, and to Land his forces in ſundry places as in the year 1600, <hi>Don John de Aquila</hi> did <hi>Ireland;</hi> the more to diſtract the Queens forces, as at <hi>Kings-ſayle, Baltimore</hi> and <hi>Ben Haven?</hi>
+            </p>
+            <p n="8">8. Whether then he will not find ten for one that will ſide with him, and whether then many of the Parliaments Souldiers will not revolt from them, &amp; adhere to him?</p>
+            <p n="9">9. Whether then the Parliament will find any of their old faſt friends, which lent them their Money and Plate on the Publick Faith, which they never reſto<g ref="char:EOLhyphen"/>red, or any of thoſe, that all along the late war aſſiſted and ſtood cloſe unto them, to the loſſe of all they had, yet never got any reparation, other then ſlights and ſcorn, neither a groat more then out of old <hi>Olivers</hi> private purſe, and that alſo taken away from poor wounded and maimed Souldiers, ſufferers and redeemed ſlaves, whilſt many of theſe which now do, and will fit at the Helm, have inricht themſelves beyond reaſon and meaſure?</p>
+            <p n="10">10. Whether as the affaires of ſhe Nation are now carried on, there are any hopes of better times.</p>
+            <p n="11">11. Whether, as concerning the Church, there is any expectation of better<g ref="char:EOLhyphen"/>ing it, ſince by thoſe Commiſſioners authorized by the Parliament to put out all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>candalous and deboiſt Miniſters, they have thruſt out too many Pious and Orthodox Divines, and plac'd ignorant Sectaries, and illiterate Mechanicks in their rooms, and many Churches left without any man, either to teach, preach or pray; and the moſt conſiderable Livings let out by the Commiſſioners to their Sonns or friends and ſervants, at the fifth part or leſſe then the yearly va<g ref="char:EOLhyphen"/>lue, and yet no accompt given to the State whereby not ſo little as 100000 <hi>li.</hi> hath been purs'd up in ſilence, which would, and may yet ſerve for payment of the Souldiers, would the Parliament look into it in time.</p>
+            <p n="12">12. Whether a ſtander-by, may not ſometimes ſee more then they which play the Game; and then whether it be ſeditious to tell the Gameſters where<g ref="char:EOLhyphen"/>in they play'd amiſs?</p>
+            <p n="13">13. Whether then, in ſuch caſes, it be Fellony or Treaſon publickly to de<g ref="char:EOLhyphen"/>clare the willfull errours of a few, or ſuch as will not be told of their faults, eſpecially when they concern a multitude, even the Peace and ſafety of the Na<g ref="char:EOLhyphen"/>tions?</p>
+            <p n="14">14. Whether it ſuits with Juſtice, that my Lord <hi>Craven</hi> ſhould looſe all his Lands, when his greateſt delinquency lyes in the greatneſs of his Eſtate?</p>
+            <p n="15">15. Whether it ſuits with Juſtice, that Sir <hi>John Stowell</hi> (though a moſt no<g ref="char:EOLhyphen"/>torious Delinquent) ſhould not have the benefit of his Articles on the taking in of <hi>Exceſtter,</hi> ſince the very Heathens evermore made good their faith given to an enemy?</p>
+            <p n="16">16. Whether it was not high ingratitude in thoſe that have villified the parts and perſon of the late Protector <hi>Oliver,</hi> both before his death and ſince, who as all men knows, was the only inſtrument (under God) to reduce the three Nations to peace and quietneſs: as alſo to diſgrace, diſhonour and diſtrengthen both his worthy Sons?</p>
+            <p n="17">17. Whether this Parliament hath not of late years, and after they had quit<g ref="char:EOLhyphen"/>ted themſelves of the late <hi>Kings</hi> power, under pretence of ſupplying the <hi>Church</hi> with able and Pious Mimſters, by Tryars of partial ſpirits, admitted &amp; approved of ſundry men of no great merit, refuſing ſuch (though learned and Pious men) as have been legally preſented by their Patrons, whereby the very Inheritance of divers Nob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emen and Gentlemen, who anciently have had <hi>Jus Patronatus,</hi> a Right by Law belonging to their Lordſhips, have been debarr'd of the tight of their Repreſentatives?</p>
+            <p n="18">18. Whether in Mr. <hi>Henry Miles</hi> his Caſe, and Propoſition preſented to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Parliament, for a Regiſter to be choſen in every County, for Regiſtring <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l Contracts, Sales of Lands, Leaſes for years or Lives, in their reſpective Counties, at the doors of the Inhabitants, and at the tenth part of the charge, he Vendors pay for their Inrowlment at <hi>London,</hi> and thoſe County Regiſters very Tearm ordered to ſend up a Tranſcript of all the Contracts, <hi>&amp;c.</hi> to the Grand Regiſter at <hi>London,</hi> where there, as alſo in the Countrey, ſearch might have been made, <hi>&amp;c.</hi> for avoiding of all fraud and Covin, <hi>&amp;c.</hi> and the ſaid gran<g ref="char:EOLhyphen"/>ted to the ſaid <hi>Myles</hi> under the Broad Seal of two Kings, approved by two Lord Keepers, two Atturney Generalls, and all the Judges of the Land: and the ſame well reliſht, and approv'd in Parliament, as alſo the perſons choſen for the execution thereof by the Parliament, to be only ſuch as had ſuffered much in the late War. And yet notwithſtanding this ſetrlement, the whole work (ſo beneſicial to all the Nation, ſo much approved, by the Votes of Parliament) blanck'd, caſt aſide, and ſtopt by one Lawyers only means?</p>
+            <p n="19">19. I ſay again, without ſcandal, or any ſeditious thought, but only to move the faulty to amendment, Whether Parliaments as well as Kings may not be told of their faults, eſpecially at ſuch a time and ſeaſon as this is, wherein the Univerſal people ſtand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gazing what may be the ſad iſſue of our preſent diſtem<g ref="char:EOLhyphen"/>pers, diviſions, and diſtractions?</p>
+            <p n="20">20. Whether it were civil or handſome to quarrel and affront the City, in pulling down their Gates and Portculliſles, and impriſoning ſome of their Al<g ref="char:EOLhyphen"/>dermen and Common-Counſel-men, who in their greateſt diſtreſſe, Ient them ready money, Plate and Jewels, and ſupplyed them with men and their beſt aſſiſtance?</p>
+            <p n="21">21. Whether Kings or other Princes, aſſuming abſolute power to themſelves without any to controule them in their exorbitances, as the <hi>Roman</hi> Senate had their Tribunes, and the great Court of <hi>Arragon</hi> which over ruled them in their extream actings, be not moſt neceſſary to be put in practiſe in a Free-State and Common-wealth.</p>
+            <p n="22">22. Whether the preſent Remnant of a few Parliament Members of the old and illegal Aſſembly, ought in Law or Reaſon, to aſſume to themſelves an abſo<g ref="char:EOLhyphen"/>lute power over the three Nations, without a King, a Protector, the Nobility, or ſome partner with them in the Government, that may qualifie that their aſ<g ref="char:EOLhyphen"/>ſumed power?</p>
+            <p n="23">23. Whether on ſuppoſition, that the Counties and Burroughs chuſe, and elect any of the ſecluded Members for filling up a Free Parliament, the rem<g ref="char:EOLhyphen"/>nant of the old Parliament can or ought in reaſon except againſt theſe ſo choſen?</p>
+            <p n="24">24. Whether that Kingdom or Nation can be ſafe and ſecure, where a King, or a few ſhall aſſume the ſole and abſolute power of Gouernment unto them<g ref="char:EOLhyphen"/>ſelves, without ſome one or other Partner that may controule them on all Juſt occaſions? And laſtly, <hi>quaritur</hi> on due conſideration, Whether a mixt Go<g ref="char:EOLhyphen"/>vernment (as ever it hath been in <hi>England</hi>) will not be the beſt, ſafe and ſe<g ref="char:EOLhyphen"/>cure Government for this Nation, and all others.</p>
+            <p n="25">25. Whether the preſent doubling of the Taxes on the univerſal Nation, will not bring the Parliament into an <hi>Odium altiſſimum,</hi> make them hateful to the whole Nation, whereas legally and with eaſe, they may raiſe within two Months, not ſo little as a Million out of that wherein they have been moſt no<g ref="char:EOLhyphen"/>toriouſly couſened and deceived, were theypleaſed to hearken to the diſcovery?</p>
+            <p n="26">26. Whether, as concerning that regreet and diſlike which all the Nation take, againſt that abſolute and Arbitrary Power of ſome few, which at preſent aſſume the ſole power of Government to themſelves, ſo anarke and hateful to the Univerſal people, may not be regulated and ballanced by ſetting up again the Lords Houſe, and that all the Nobility of the 3 Nations, may be aſſembled to ſit, Act and Vote, as they in their own houſe anciently have done, in a Full and Free Parliament; whereby the Government may return into a mixture of Government, ſince Kingſhip, Single perſons, and proud Prelacy are laid aſide, that ſo the preſent remnant of the old Parliament, may gain the laſt love and re<g ref="char:EOLhyphen"/>ſpect of the whole Nation; eſpecially. ſince it appears not to any man of rea<g ref="char:EOLhyphen"/>ſon and reading, wherefore the Nobility and Barons of the Land, ſhould be ex<g ref="char:EOLhyphen"/>cluded out of the great Council, which in all ancient times, have withſtood the Arbitrary Power of our Kings, and recovered the ancient Laws of the people, even <hi>Magn Carta,</hi> and <hi>Carta de forreſta,</hi> as in many preſidents its apparent, amongſt which this one only we ſhall here inſert, as the Record every where extant manifeſts. Henry <hi>ſirnamed</hi> Bew-cleark, <hi>youngeſt ſon to</hi> William <hi>the con<g ref="char:EOLhyphen"/>querour, ſtaving off all Parliaments which might and would croſs him in his de<g ref="char:EOLhyphen"/>ſign to Rule at will and pleaſure, after</hi> 15 <hi>years of their diſcontent the Lords en<g ref="char:EOLhyphen"/>forced him at laſt to call a Parliament, at</hi> Salsbury, <hi>where he was compel'd to reſtore unto the people their old Laws, the Record runs thus:</hi> Legam Edwardi vobis reddo, cum illis emendationibus, quibus poter meus eam emendavit Con<g ref="char:EOLhyphen"/>cillio Baronum ſuorum. <hi>I reſtore unto you the Laws of King</hi> Edward, <hi>as they were amended by my father by the Council of his Barons.</hi> Hence we may ſee the power and uſe of the Bartons of thoſe times, and in ſundry other Reigns how couragiouſly they ſtood up, &amp; oftentimes fought for the Liberties &amp; Free<g ref="char:EOLhyphen"/>doms of the people. Why now, and in theſe times they ſhould be put down, and excluded from the great Council as uſeleſs, is paſt many wiſe mens under<g ref="char:EOLhyphen"/>ſtanding; eſpecially by an inconſiderable number of the lower, or middle ſort of the people; but rather admitted as we have before ſaid, for the ballancing of arbitrary power, aſſumed by an inconſiderable number, in reſpect of a Full and Free Parliament?</p>
+            <p n="27">27. Whether the Parliament in the late war, did not raiſe their Forces a<g ref="char:EOLhyphen"/>gainſt the Kings arbitrary Power; And whether at preſent they aſſume not to themſelves an abſolute and Supream power over the 3 Nations.</p>
+            <p n="28">28. And laſtly, Whether in theſe times of diviſions, diſtractions &amp; Factions, they do take into their conſideration that of <hi>Solomon</hi> viz. <hi>Oppreſſion makes a wiſe man mad?</hi> And whether there is not a kind of ambitious madneſs amongſt thoſe which ſaid (as is reported) they would fire the City when they could not obtain ſo much mony as they demanded on Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for the Author. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
